@@ -1,0 +1,19 @@
+{
+  "name": "curdjs",
+  "version": "1.0.0",
+  "description": "This Package provides Functions to implemetn CURD operations on Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curdjs",
+    "DB"
+  ],
+  "author": "B Madhava Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "mssql": "^4.1.0"
+  }
+}
