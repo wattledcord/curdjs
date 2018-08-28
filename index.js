@@ -4,5 +4,8 @@ module.exports={
     },
     add:function(){
         console.log("This is  Add Function");
+    },
+    delete:function(){
+        console.log("This is delete Funtion");
     }
 }

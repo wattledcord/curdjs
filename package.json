@@ -1,6 +1,6 @@
 {
   "name": "curdjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This Package provides Functions to implemetn CURD operations on Database",
   "main": "index.js",
   "scripts": {
