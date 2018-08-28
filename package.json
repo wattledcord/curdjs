@@ -1,6 +1,6 @@
 {
   "name": "curdjs",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This Package provides Functions to implemetn CURD operations on Database",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "curdjs",
     "DB"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wattledcord/curdjs"
+  },
   "author": "B Madhava Reddy",
   "license": "ISC",
   "dependencies": {
